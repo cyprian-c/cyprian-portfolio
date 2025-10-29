@@ -1,0 +1,17 @@
+For the component’s defined layout — 298×298px on mobile and 494×498px on large screens — the source image should be:
+
+Ideal resolution: 1000×1000px minimum.
+
+Aspect ratio: 1:1 (square) to match the SVG circle overlay and avoid distortion.
+
+Format: JPEG or WebP; WebP preferred for compression efficiency.
+
+Purpose-optimized variants:
+
+Mobile: 600×600 px
+
+Desktop: 1000×1000 px
+
+Optional high-DPI: 2000×2000 px
+
+These dimensions give a crisp appearance while allowing the fill layout in next/image to scale cleanly without cropping or blur on retina screens.
