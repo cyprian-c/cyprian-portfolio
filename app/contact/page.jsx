@@ -77,12 +77,37 @@ const Contact = () => {
                           </SelectGroup>
                         </SelectContent>
                        </Select>
+                       {/* textarea */}
+                       <Textarea
+                         className="h-[208px]"
+                         placeholder="Type your message here."
+                       />
+                       {/* Btn */}
+                       <Button size="md" className="max-w-40">
+                        Send Message
+                       </Button>
+
                     </form>
                 </div>
                 {/* info */}
                 <div className="flex-1 flex items-center xl:justify-end order-1
                 xl:order-none mb-8 xl:mb-0">
-                    info
+                  <ul>
+                    {info.map((item, index)=> {
+                      return (
+                        <li key={index} className="flex flex-col gap-10">
+                          <div className="w-[52px] h-[52px] xl:w-[72px] bg-[#27272c] text-accent rounded-md flex items-center
+                          jusify-center">
+                            <div className="text-[28px]">{item.icon}</div>
+                          </div>
+                          <div className="flex-1">
+                            <p className="text-white/60">{item.title}</p>
+                            <h3 className="text-xl">{item.description}</h3>
+                          </div>
+                        </li>
+                      );
+                    })}
+                  </ul>
                 </div>
             </div>
           </div>
