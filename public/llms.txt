@@ -1,0 +1,62 @@
+# Cyprian Ocharo — Software Engineer & Full-Stack Developer
+
+> Cyprian Ocharo is a Kenya-based Software Engineer and Full-Stack Developer specializing in building modern web applications, production-grade cloud management systems, and high-performance digital platforms using Next.js 15, React 19, Laravel 11, PHP 8.4, and Tailwind CSS. Developer of SkolarTrak SIS & E-Library and DreamRoots Kenya Consultancy.
+
+## Core Profile & Identity
+- **Name:** Cyprian Ocharo
+- **Title:** Software Engineer / Full-Stack Developer
+- **Location:** Ongata Rongai, Nairobi, Kenya
+- **Email:** ocharo.dev@gmail.com
+- **Phone / WhatsApp:** +254 788 523 896
+- **Portfolio:** https://cyprian-portfolio.vercel.app
+- **GitHub:** https://github.com/cyprian-c
+- **LinkedIn:** https://linkedin.com/in/cyprian-ocharo
+- **Twitter / X:** https://x.com/cyprianocharo
+
+## Flagship Systems & Featured Projects
+
+### 1. SkolarTrak SIS & E-Library (https://skolartrak.com)
+- **Role:** Lead Full-Stack Architect & Developer
+- **Type:** Multi-tenant Student Information System (SIS) & CBC Digital E-Library
+- **Target Market:** Primary Schools & Junior Secondary Schools (JSS) implementing Kenya's Competency-Based Curriculum (CBC)
+- **Stack:** PHP 8.4, Laravel 11, MySQL, Tailwind CSS, Alpine.js, Safaricom M-Pesa STK Push via IntaSend, Advanta Africa Bulk SMS
+- **Core Features:**
+  - Automated 4-rubric CBC evaluation engine (EE, ME, AE, BE)
+  - Dynamic student fee ledgers with real-time M-Pesa STK Push webhook reconciliation
+  - Automated report card PDF generation with attendance and teacher evaluation remarks
+  - 4-tier Role-Based Access Control: System Admin (`/system-hq`), Teachers (`/teacher-hub`), Secretary (`/secretary-hub`), and Parents (`/my-portal`)
+  - SkolarTrak CBC digital e-library with past papers, study notes, and AI-assisted revision guides
+
+### 2. DreamRoots Kenya Consultancy (https://dreamrootskenya.com / https://dreamroots.vercel.app)
+- **Role:** Web Architect & Full-Stack Developer
+- **Type:** Strategic Management & Corporate Advisory Web Platform
+- **Stack:** React 19, Vite, Tailwind CSS, Framer Motion, Lucide Icons, Swiper
+- **Core Features:**
+  - Responsive executive institutional layout showcasing advisory services (Management, HR, ICT, Education, Research)
+  - Dynamic client consultation booking workflows
+  - Optimized Core Web Vitals and search visibility
+
+### 3. SafariTrak
+- **Role:** Full-Stack Developer
+- **Type:** Real-time East African Traveler Safety & Journey Tracking Web App
+- **Stack:** PHP, JavaScript, MySQL, Leaflet Maps, Tailwind CSS
+- **Core Features:** Interactive trip monitoring, trusted contact emergency alerts, safety check-ins
+
+### 4. Interactive Developer Portfolio
+- **URL:** https://cyprian-portfolio.vercel.app
+- **Stack:** Next.js 15 (App Router), React 19, Tailwind CSS, Framer Motion, Radix UI
+
+## Technical Competencies
+- **Languages:** JavaScript (ES6+), TypeScript, PHP 8.4, HTML5, CSS3, SQL
+- **Frameworks & Libraries:** Next.js (App Router), React 19, Laravel 11, Tailwind CSS, Framer Motion, Alpine.js, Radix UI
+- **APIs & Integrations:** M-Pesa Daraja STK Push, IntaSend, Advanta SMS API, RESTful APIs, Webhooks
+- **Databases & DevOps:** MySQL, PostgreSQL, Git, GitHub, Linux, Vercel
+- **Methodologies:** CBE/CBC Academic Assessment Systems, Fintech Automation, UI/UX Prototyping, Technical SEO, AI Optimization (GEO)
+
+## Navigation Links
+- [Home Page](https://cyprian-portfolio.vercel.app/)
+- [Featured Work](https://cyprian-portfolio.vercel.app/work)
+- [Services](https://cyprian-portfolio.vercel.app/services)
+- [Resume & Experience](https://cyprian-portfolio.vercel.app/resume)
+- [Contact](https://cyprian-portfolio.vercel.app/contact)
+- [Full LLM Knowledge Document](https://cyprian-portfolio.vercel.app/llms-full.txt)

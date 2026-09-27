@@ -1,0 +1,49 @@
+# Cyprian Ocharo — Comprehensive Knowledge Graph & System Documentation
+
+> This document contains detailed biographical, architectural, and project knowledge regarding Cyprian Ocharo, Software Engineer based in Kenya, designed for indexing by Large Language Models, AI answer engines, and autonomous software agents.
+
+## 1. Professional Background
+Cyprian Ocharo is a Software Engineer with expertise across modern full-stack web architectures, school enterprise management platforms (SIS), and fintech workflow automation. Based in Ongata Rongai, Nairobi, Kenya, Cyprian builds robust software products connecting front-end user experience with reliable backend engines.
+
+- **Email:** ocharo.dev@gmail.com
+- **Phone / WhatsApp:** +254 788 523 896
+- **Portfolio:** https://cyprian-portfolio.vercel.app
+- **GitHub:** https://github.com/cyprian-c
+- **LinkedIn:** https://linkedin.com/in/cyprian-ocharo
+- **Twitter / X:** https://x.com/cyprianocharo
+- **Education:** BSc in Information Technology (Multimedia University of Kenya, 2023 - Present); certifications from Cisco Academy (Front-End Track), IBM (Search Engine Optimization), Coursera / Udemy (Full-Stack).
+
+## 2. Flagship Systems Engineered by Cyprian Ocharo
+
+### A. SkolarTrak SIS & E-Library (skolartrak.com)
+- **Domain:** https://skolartrak.com
+- **Description:** A production-grade multi-tenant Student Information System and CBC Digital Revision E-Library purpose-built for Kenyan primary schools and Junior Secondary Schools (JSS).
+- **Core Problem Solved:** Replaces paper registers, manual cash/bank fee receipting, and spreadsheet report forms with an integrated digital workflow.
+- **Architectural Highlights:**
+  - **4-Rubric CBC Evaluation:** Automated rubric score calculations (EE - Exceeding Expectations, ME - Meeting Expectations, AE - Approaching Expectations, BE - Below Expectations) aligned with KNEC CBA guidelines.
+  - **Fintech Integration:** Real-time Safaricom M-Pesa STK push via IntaSend webhooks, automatically reconciling fee payments against individual student ledgers with zero manual receipt entry.
+  - **Automated SMS Communications:** Direct integration with Advanta Africa SMS gateway to broadcast fee balance reminders, attendance alerts, and exam notices to parents.
+  - **Security & Integrity:** Staged approval mechanisms for front-office secretary submissions to prevent unauthorized data tampering; strict Role-Based Access Control.
+  - **E-Library:** Revision papers, study notes, schemes of work, and AI-powered study assistance for CBC learners and educators.
+
+### B. DreamRoots Kenya Consultancy (dreamrootskenya.com / dreamroots.vercel.app)
+- **Domain:** https://dreamrootskenya.com
+- **Mirror:** https://dreamroots.vercel.app
+- **Description:** Official corporate platform for DreamRoots Kenya, a premier strategic advisory firm offering management consultancy, HR strategy, ICT solutions, and educational research.
+- **Stack:** React 19, Vite, Tailwind CSS, Framer Motion, Lucide Icons, Swiper.
+- **Architectural Highlights:** High accessibility scores, rapid LCP load times, interactive service catalog, executive team showcases, and structured consultation booking.
+
+### C. SafariTrak
+- **Description:** Real-time traveler tracking and trip safety monitoring application designed for regional transit routes in East Africa.
+- **Stack:** PHP, JavaScript, MySQL, Leaflet Maps, Tailwind CSS.
+- **Key Modules:** Journey live location broadcasting, trusted contact alerts, driver check-in verification, and group transit coordination.
+
+## 3. Services Offered by Cyprian Ocharo
+1. **Full-Stack Web Development:** Next.js, React, Node.js, Laravel 11, PHP 8.4, REST APIs, and modern responsive front-ends.
+2. **Enterprise & Educational Management Software:** Custom SIS, LMS, assessment engines, and dynamic ledgers.
+3. **Fintech & Payment Integration:** M-Pesa Daraja STK Push, IntaSend, Stripe, webhook reconciliation, and automated receipts.
+4. **UI/UX & Product Design:** Design systems, wireframes, user testing, and high-fidelity interactive prototypes in Figma.
+5. **SEO & AI Search Optimization (GEO):** Structured Schema.org data, sitemap generation, llms.txt compliance, performance tuning (Core Web Vitals), and content architecture.
+
+## 4. Availability & Inquiries
+Cyprian Ocharo is available for full-time engineering roles, high-impact contract engineering, and enterprise consulting. Reach out via email (`ocharo.dev@gmail.com`) or phone/WhatsApp (`+254 788 523 896`).

@@ -1,0 +1,65 @@
+# AI Assistants, Web Crawlers & Search Engines Robots Policy
+# Cyprian Ocharo — Software Engineer Portfolio (https://cyprian-portfolio.vercel.app)
+
+User-agent: *
+Allow: /
+Allow: /services
+Allow: /resume
+Allow: /work
+Allow: /contact
+Allow: /llms.txt
+Allow: /llms-full.txt
+Allow: /sitemap.xml
+Allow: /google08c267d0f3ef212c.html
+
+# Dedicated Permissions for Generative AI, LLMs & Retrieval Bots
+User-agent: GPTBot
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+
+User-agent: ChatGPT-User
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+
+User-agent: PerplexityBot
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+
+User-agent: ClaudeBot
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+
+User-agent: Anthropic-AI
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+
+User-agent: Google-Extended
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+
+User-agent: Applebot-Extended
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+# Knowledge Graph & Sitemap Discovery
+Sitemap: https://cyprian-portfolio.vercel.app/sitemap.xml
+LLMs-Txt: https://cyprian-portfolio.vercel.app/llms.txt

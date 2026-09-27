@@ -73,12 +73,16 @@ npm run lint
 
 ```
 ├── app/
-│   ├── contact/page.jsx   # Contact section & form
+│   ├── api/
+│   │   └── contact/route.js # Contact form API submission handler
+│   ├── contact/page.jsx   # Interactive contact section, form state & channels
 │   ├── resume/page.jsx    # Experience, education, skills & about me
 │   ├── services/page.jsx  # Services showcase
-│   ├── work/page.jsx      # Featured projects slider (Swiper)
+│   ├── work/page.jsx      # Featured projects (SkolarTrak, DreamRoots, SafariTrak)
+│   ├── robots.js          # Dynamic Next.js robots metadata route
+│   ├── sitemap.js         # Dynamic Next.js sitemap generator
 │   ├── globals.css        # Tailwind styling & animations
-│   ├── layout.jsx         # Root layout with fonts & transition wrappers
+│   ├── layout.jsx         # Root layout with fonts, JSON-LD Schema & AI metadata
 │   └── page.jsx           # Hero page with dynamic stats & introduction
 ├── components/
 │   ├── ui/                # Accessible Radix UI primitives
@@ -94,7 +98,13 @@ npm run lint
 ├── lib/
 │   ├── resume-data.js     # Data layer for experience, education, skills
 │   └── utils.js           # Class name merging utility (clsx + tailwind-merge)
-├── public/                # Static assets, icons, and thumbnails
+├── public/
+│   ├── google08c267d0f3ef212c.html # Google Search Console HTML verification file
+│   ├── llms.txt           # Structured AI/LLM system overview & knowledge graph
+│   ├── llms-full.txt      # Comprehensive technical knowledge graph for AI agents
+│   ├── robots.txt         # Crawler policy for search engines & AI bots
+│   ├── sitemap.xml        # Static sitemap fallback
+│   └── assets/            # Project thumbnails, icons, and media
 ├── next.config.mjs        # Next.js config & security headers
 ├── tailwind.config.js     # Tailwind CSS theme configuration
 └── package.json           # Project manifest & dependencies
